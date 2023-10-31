@@ -8,8 +8,10 @@
 
 
 BiliBili
+
 ![img](https://github.com/bugscleaner/cc-subtitle-words-query/blob/master/20231031-131725-HD.gif?raw=true) 
 
 
 Youtube
+
 ![img](https://github.com/bugscleaner/cc-subtitle-words-query/blob/master/20231031-132026-HD.gif?raw=true) 
